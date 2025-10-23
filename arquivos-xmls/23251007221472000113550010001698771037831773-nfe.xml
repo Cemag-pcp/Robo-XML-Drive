@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe23251007221472000113550010001698771037831773" versao="4.00"><ide><cUF>23</cUF><cNF>03783177</cNF><natOp>VENDA MERCADORIA D EST</natOp><mod>55</mod><serie>1</serie><nNF>169877</nNF><dhEmi>2025-10-21T12:55:23-03:00</dhEmi><dhSaiEnt>2025-10-21T12:55:23-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>2304400</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>3</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>1</indPres><procEmi>0</procEmi><verProc>V2.304</verProc></ide><emit><CNPJ>07221472000113</CNPJ><xNome>JAGUAR COMERCIO DE TINTAS LTDA</xNome><enderEmit><xLgr>AV. CORONEL CARVALHO, 2731</xLgr><nro>2731</nro><xBairro>JARDIM IRACEMA</xBairro><cMun>2304400</cMun><xMun>FORTALEZA</xMun><UF>CE</UF><CEP>60341630</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>8532862884</fone></enderEmit><IE>061796000</IE><CRT>3</CRT></emit><dest><CNPJ>07844087000122</CNPJ><xNome>CEMAG - CEARA MAQUINAS AGRICOLAS S.A.</xNome><enderDest><xLgr>R RIO SOLIMOES, 200</xLgr><nro>01</nro><xBairro>BARRA DO CEARA</xBairro><cMun>2304400</cMun><xMun>FORTALEZA</xMun><UF>CE</UF><CEP>60340210</CEP><cPais>1058</cPais><fone>8532282377</fone></enderDest><indIEDest>1</indIEDest><IE>061609331</IE><email>financeiro@cemag.com.br</email></dest><autXML><CNPJ>07221472000113</CNPJ></autXML><det nItem="1"><prod><cProd>10001</cProd><cEAN>7891452469742</cEAN><xProd>PRIMER EPOX S WILLIAMS CINZA COMP A+B 3,6L</xProd><NCM>32089010</NCM><CEST>2400100</CEST><indEscala>S</indEscala><CFOP>5405</CFOP><uCom>GL</uCom><qCom>3.0000</qCom><vUnCom>279.9000000000</vUnCom><vProd>839.70</vProd><cEANTrib>7891452469742</cEANTrib><uTrib>GL</uTrib><qTrib>3.0000</qTrib><vUnTrib>279.9000000000</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>290.12</vTotTrib><ICMS><ICMS90><orig>0</orig><CST>90</CST><modBC>3</modBC><vBC>839.70</vBC><pRedBC>0.0000</pRedBC><pICMS>20.00</pICMS><vICMS>167.94</vICMS></ICMS90></ICMS><IPI><cEnq>999</cEnq><IPITrib><CST>99</CST><vBC>0.00</vBC><pIPI>0.00</pIPI><vIPI>0.00</vIPI></IPITrib></IPI><PIS><PISAliq><CST>01</CST><vBC>671.76</vBC><pPIS>0.65</pPIS><vPIS>4.37</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>671.76</vBC><pCOFINS>3.00</pCOFINS><vCOFINS>20.15</vCOFINS></COFINSAliq></COFINS></imposto></det><total><ICMSTot><vBC>839.70</vBC><vICMS>167.94</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>839.70</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>4.37</vPIS><vCOFINS>20.15</vCOFINS><vOutro>0.00</vOutro><vNF>839.70</vNF><vTotTrib>290.12</vTotTrib></ICMSTot></total><transp><modFrete>3</modFrete><transporta><CNPJ>07221472000113</CNPJ><xNome>JAGUAR COMERCIO DE TINTAS LTDA</xNome><IE>061796000</IE><xEnder>AV. CEL. CARVALHO, 2731 - JARDIM IRACEMA</xEnder><xMun>FORTALEZA</xMun><UF>CE</UF></transporta></transp><cobr><fat><nFat>001/0169877-N</nFat><vOrig>839.70</vOrig><vDesc>0.00</vDesc><vLiq>839.70</vLiq></fat><dup><nDup>001</nDup><dVenc>2025-11-20</dVenc><vDup>839.70</vDup></dup></cobr><pag><detPag><tPag>15</tPag><vPag>839.70</vPag></detPag></pag><infAdic><infCpl>VENDEDOR: JOSE EDSON MARTINS DE AQUINO Orcamento: 900759  PEDIDO N.98605034 COBRANCA BANCARIA C/30 DIAS BOLETO EM ANEXO  ICMS destacado exclusivamente p/ fins de exclusao  do seu valor da base de calculo do PIS e COFINS,  conf. decisao do STF RE 574706/PR e IN 2.121/2022.  VAL APROX TRIBUTOS: R$ 290,12 FONTE: IBPT  Forma de Pagamento: FORMA PAGAMENTO: BL</infCpl></infAdic></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#NFe23251007221472000113550010001698771037831773"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>8SVTZNLaCAU+AZ1ZCMPF8PRUnwM=</DigestValue></Reference></SignedInfo><SignatureValue>afUC5iRJZGWroq/JIG0c7ntHEgspcd2FCtKT6lvrwr+FuBEdGd2gZ4Jq3zglQQfHbtfwgybSm7Zu
+8TqhNvOVa1xMu02wreNkak5i1UIeIJ/3Egzd/F0D0Cq8fXG+WoCEFcFbGj4pAUNw1ZOJtwV/diKR
+JlUkxOxknFmTuFWoXG+uAGE3PhNXJuvYpWFEdWNFMmm2Fl01S2hsLs799sprWycmDkn658jSZRZ3
+Rllk3+onO+52f8aRxLz9rTcQNrI0h68lf0jg6V7thN+dZn+3oTRlq3G/gNZbtR1Zl6fjtQ/YWGN6
+8+87ZTqQ6oopJIYY599Sz5gKwpfm2NVQDspkwQ==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIIHTCCBgWgAwIBAgIQM4IL01AU4AMpNHVEk/hfDjANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc1MB4X
+DTI1MDUwMjE0Mzc0M1oXDTI2MDUwMjE0Mzc0M1owgfkxCzAJBgNVBAYTAkJSMRMwEQYDVQQKDApJ
+Q1AtQnJhc2lsMQswCQYDVQQIDAJDRTESMBAGA1UEBwwJRm9ydGFsZXphMRMwEQYDVQQLDApQcmVz
+ZW5jaWFsMRcwFQYDVQQLDA4wMTkyMTU4MDAwMDExMjE2MDQGA1UECwwtU2VjcmV0YXJpYSBkYSBS
+ZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRYwFAYDVQQLDA1SRkIgZS1DTlBKIEExMTYw
+NAYDVQQDDC1KQUdVQVIgQ09NRVJDSU8gREUgVElOVEFTIExUREE6MDcyMjE0NzIwMDAxMTMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGlue3yrD1jzOE3rGbmeA2qpKVwW89h7XVqxc9
+pVkL1LpidoVLzM1my1ixnVHMmR6Hf1O/ZsGfr7l4CG4aYZURv6Q3k6CPyceR2szBLhJ/MIGlOkuI
+uPGNKz9sSmjPemTiQJmnTyN7yFU6hUKHKkEXuGckGc6Dq32IuXbt3jEOOSTluiqFAcjflIX1S6Nk
+jWmtCUVsHfFYR72qVAxeqUgn09s54/+8Gsn3kwtX2QPzo7Yf1U2zu/we1YBz6jGUG+bsmEkf3Yns
+XFOyp04swxXgHA9V02uQ8JU7I1Czm37OLaR31l4F/Od2FjqlJVu6fJxGJSBUTJNV6bHOMfzliO/L
+AgMBAAGjggMfMIIDGzCBzgYDVR0RBIHGMIHDoDgGBWBMAQMEoC8ELTE3MDgxOTYyMjA0NTU1NTAz
+ODcwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMKApBgVgTAEDAqAgBB5NQVJDT1MgUk9HRVJJTyBQ
+SU5IRUlSTyBBUkFVSk+gGQYFYEwBAwOgEAQOMDcyMjE0NzIwMDAxMTOgFwYFYEwBAwegDgQMMDAw
+MDAwMDAwMDAwgSh1bmlkZmlzY2FsLnJ1YmVuaWxkYUBqYWd1YXJ0aW50YXMuY29tLmJyMAkGA1Ud
+EwQCMAAwHwYDVR0jBBgwFoAUU31/nb7RYdAgutqf44mnE3NYzUIwfwYDVR0gBHgwdjB0BgZgTAEC
+AQwwajBoBggrBgEFBQcCARZcaHR0cDovL2ljcC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBv
+c2l0b3Jpby9kcGMvQUNfQ2VydGlzaWduX1JGQi9EUENfQUNfQ2VydGlzaWduX1JGQi5wZGYwgbwG
+A1UdHwSBtDCBsTBXoFWgU4ZRaHR0cDovL2ljcC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBv
+c2l0b3Jpby9sY3IvQUNDZXJ0aXNpZ25SRkJHNS9MYXRlc3RDUkwuY3JsMFagVKBShlBodHRwOi8v
+aWNwLWJyYXNpbC5vdXRyYWxjci5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL0FDQ2VydGlzaWduUkZC
+RzUvTGF0ZXN0Q1JMLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsG
+AQUFBwMEMIGsBggrBgEFBQcBAQSBnzCBnDBfBggrBgEFBQcwAoZTaHR0cDovL2ljcC1icmFzaWwu
+Y2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9jZXJ0aWZpY2Fkb3MvQUNfQ2VydGlzaWduX1JG
+Ql9HNS5wN2MwOQYIKwYBBQUHMAGGLWh0dHA6Ly9vY3NwLWFjLWNlcnRpc2lnbi1yZmIuY2VydGlz
+aWduLmNvbS5icjANBgkqhkiG9w0BAQsFAAOCAgEAYoyU7lfqs8jhvwhiKtdxL/P4BURMth176UUS
+1rKWimehhAuNPrEf2n+YNXWxwiF9flF1mV81mulPBtTgoyDD88fkSloaWhdqEZq9h29cyd0QfP64
+h6pcLZUaUbDrOqfxnxsUtZu5b1yA8CRa61+m2jM57EwW9xaWbvo9gDOYqFy5vVgsTJPlULY37LMN
+jCXctVk5Wes66ViJKwA4Qn+Zq3WXXUYEXX/zEb/xP8b46unQyaPS8qVFV+hPq8K8lKAgtYXskd6w
+AnnwfoYyxVJ6a6WuZ/kGJLenA5zQzeXIflVhsLCZxVxfOncYj4nuxral2EhAT7jn8VNmYJ9MLXdR
+mvDxb5W3ik5cxJvrdQbG+TH+q1sOE8IXMuzdwI/rvqJ09I6wQEyN1Sna++57XyY2J7dUkGZ5lBdE
+q0hNrE0wLgnIBcYKXBy7oWOh3j0E+oIesIVfh/zO6wZJB+B9gc77sRvYwvv6wRLVfjM2Ao0Q866T
+L9I3VSN2r+TOBD0Kryh+xEoxmfw33/+9sjlZlguuZzvafkkoOjupRCXdBhpx1kGhH13mxVypmPOC
+cxwo+EL61UW8ePKw6niees2+qqVV7oJ4FQSQmp8P1VKBeeNNkeijw4vNeoaBykr5roaWfBPB7UU2
+3ogOMUG3LG02a8m1fRQmCvLYKSUusb7iysdIxms=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><infProt><tpAmb>1</tpAmb><verAplic>SVRS2509031206DR</verAplic><chNFe>23251007221472000113550010001698771037831773</chNFe><dhRecbto>2025-10-21T12:55:30-03:00</dhRecbto><nProt>223250106472656</nProt><digVal>8SVTZNLaCAU+AZ1ZCMPF8PRUnwM=</digVal><cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe></nfeProc>
