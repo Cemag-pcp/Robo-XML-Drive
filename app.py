@@ -25,20 +25,20 @@ if __name__ == "__main__":
         time.sleep(2)
 
         # Clica em um item de menu (exemplo)
-        bot.listar_menu_click("Fiscal e Regulamentação") # <-- Troque pelo nome real do item
+        bot.listar_menu_click("Fiscal e Regulamentação")
         time.sleep(2)
         
         # Clica em um sub-item (exemplo)
-        bot.listar_menu_click("Consultas") # <-- Troque pelo nome real do item
+        bot.listar_menu_click("Consultas")
         time.sleep(2)
 
-        bot.listar_menu_click("Auxiliares Fiscais") # <-- Troque pelo nome real do item
+        bot.listar_menu_click("Auxiliares Fiscais")
         time.sleep(2)
 
-        bot.listar_menu_click("Manifestação (C)") # <-- Troque pelo nome real do item
+        bot.listar_menu_click("Manifestação (C)")
         time.sleep(2)
 
-        bot.listar_menu_click("99003 Download de XML Manifestados (C)") # <-- Troque pelo nome real do item
+        bot.listar_menu_click("99003 Download de XML Manifestados (C)")
         time.sleep(2)
 
         # ... aqui você faria suas ações dentro do iframe ...
